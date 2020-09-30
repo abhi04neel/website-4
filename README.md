@@ -1,4 +1,4 @@
-Mr Liquid WebSite Project
+Mr Liquid WebSite Project and The best project in the world
 
 * All the pages are now converted to PHP files.
 
